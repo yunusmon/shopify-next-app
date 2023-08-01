@@ -4,6 +4,7 @@ export default function Navbar() {
       <div className="flex-1">
         <a className="btn btn-ghost normal-case text-xl">Kingstar</a>
       </div>
+      
       <div className="flex-none">
         <div className="dropdown dropdown-end">
           <label tabIndex={0} className="btn btn-ghost btn-circle">

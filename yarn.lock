@@ -2239,6 +2239,11 @@ shebang-regex@^3.0.0:
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-3.0.0.tgz#ae16f1644d873ecad843b0307b143362d4c42172"
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
 
+shopify-buy@^2.20.1:
+  version "2.20.1"
+  resolved "https://registry.yarnpkg.com/shopify-buy/-/shopify-buy-2.20.1.tgz#82ad1be59d4cd1a4f2f1972e004a198723059241"
+  integrity sha512-8hIaHQld8V4hKOhYJ+LxXDpt/Y5evYM3EB9v7ZDXap+tbRqyWQq/YjgTqjh1cTM7t3BMWylhxqsFx+NR9YQ9yw==
+
 side-channel@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/side-channel/-/side-channel-1.0.4.tgz#efce5c8fdc104ee751b25c58d4290011fa5ea2cf"
